@@ -132,10 +132,12 @@ The report was designed with three interactive dashboards:
 ## 📷 Dashboard Screenshots
 
 ### Main Dashboard
-(![doctors tab.png](https://github.com/Skuiri787/Colombia-Asia-Hospital-/blob/main/doctors%20tab.png))
+<img src="images/main tab.png" width="900">
+!https://github.com/Skuiri787/Colombia-Asia-Hospital-/blob/main/main%20tab.png
+
 
 ### Doctors Dashboard
-(Add Screenshot)
+![doctors tab.png](https://github.com/Skuiri787/Colombia-Asia-Hospital-/blob/main/doctors%20tab.png)
 
 ### Patients Dashboard
 (Add Screenshot)
